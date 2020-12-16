@@ -1,4 +1,3 @@
-# Android Notes (University Project)
 
 ![screenshot][screenshot]
 
